@@ -1,5 +1,4 @@
-fun main()
-{
+fun main() {
     print("введите значение: ")
     val a = readLine()!!.toInt()
     val v = a * a * a
